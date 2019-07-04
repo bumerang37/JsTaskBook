@@ -1,0 +1,19 @@
+{
+    "name": "JsTaskBook",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "*",
+        "path": "*",
+        "express-handlebars": "*",
+        "hbs": "*"
+    },
+    "devDependencies": {
+        "express": "*",
+        "path": "*",
+        "express-handlebars": "*",
+        "hbs": "*"
+    }
+}

@@ -1,0 +1,9 @@
+iframe {
+    overflow: hidden !important;
+    overflow-x:hidden;
+    overflow-Y:hidden;
+}
+
+#bookClicker a {
+    cursor: pointer;
+}
